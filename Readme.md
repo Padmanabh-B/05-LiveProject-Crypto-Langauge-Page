@@ -34,3 +34,4 @@ This is UI design Landing page of a Crypto Landing Website this is fully designe
 
 
 ## Deployed Link
+[Crypto Landing Page](https://crypto-ui-landing-page.netlify.app/)
